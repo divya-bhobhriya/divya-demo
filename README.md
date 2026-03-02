@@ -1,2 +1,4 @@
 # divya-demo
-This is my first repository of github.
+This is my first git repository.
+<br>
+Author - divya bhobhriya.
